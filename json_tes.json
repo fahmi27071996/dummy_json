@@ -1,4 +1,4 @@
-"links":[
+[
 {"source": "Harvest", "target": "Master",  "value": 50},
 {"source": "Master", "target": "Enjoy",  "value": 10},
 {"source": "Master",  "target": "Store",  "value": 40},
@@ -17,5 +17,4 @@
 {"source": "Harvest", "target": "Master",  "value": 20},
 {"source": "Master", "target": "Enjoy",  "value": 10},
 {"source": "Master",  "target": "Store",  "value": 10},
-
 ]
